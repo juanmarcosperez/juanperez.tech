@@ -12,8 +12,8 @@ const ProjectCard = () => {
               <p>project description and what it was code with will go here</p>
             </div>
             <div class="card-action">
-              <a href="#">Code</a>
-              <a href="#">Site</a>
+              <a href="home">Code</a>
+              <a href="about">Site</a>
             </div>
           </div>
         </div>
