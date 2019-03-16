@@ -1,0 +1,22 @@
+.vertical-menu {
+  float: left;
+  width: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: light-gray;
+}
+
+.vertical-menu a {
+  background-color: #eee; /* Grey background color */
+  display: block; /* Make the links appear below each other */
+  padding-bottom: 5px;
+}
+
+.vertical-menu a:hover {
+  background-color: #eee;
+}
+
+.vertical-menu a.active {
+  background-color: #4caf50;
+  color: white;
+}
