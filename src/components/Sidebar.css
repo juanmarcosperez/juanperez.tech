@@ -1,13 +1,18 @@
 .vertical-menu {
   float: left;
   width: 100px;
-  padding-left: 50px;
-  padding-right: 50px;
-  background-color: light-gray;
+  padding: 30px;
+  position: absolute;
+  top: 0;
+
+  left: 0;
+
+  bottom: 0;
+
+  height: 100%;
 }
 
 .vertical-menu a {
-  background-color: #eee; /* Grey background color */
   display: block; /* Make the links appear below each other */
   padding-bottom: 5px;
 }
