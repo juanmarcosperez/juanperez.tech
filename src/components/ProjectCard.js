@@ -16,7 +16,9 @@ const ProjectCard = () => {
                 </p>
               </div>
               <div class="card-action">
-                <a href="home">Code</a>
+                <a href="https://github.com/juanmarcosperez/pokemonapp">
+                  Code on Github
+                </a>
                 <a href="about">Site</a>
               </div>
             </div>
@@ -33,8 +35,10 @@ const ProjectCard = () => {
                 <p>Displays news from different media outlets.</p>
               </div>
               <div class="card-action">
-                <a href="#">This is a link</a>
-                <a href="#">This is a link</a>
+                <a href="https://github.com/juanmarcosperez/News">
+                  Code on Github
+                </a>
+                <a href="about">Site</a>
               </div>
             </div>
           </div>
@@ -53,8 +57,10 @@ const ProjectCard = () => {
                 </p>
               </div>
               <div class="card-action">
-                <a href="#">This is a link</a>
-                <a href="#">This is a link</a>
+                <a href="https://github.com/juanmarcosperez/nflArrests">
+                  Code on Github
+                </a>
+                <a href="about">Site</a>
               </div>
             </div>
           </div>
@@ -70,8 +76,10 @@ const ProjectCard = () => {
                 <p>Basic Tic-Tac-Toe game. Have Fun!</p>
               </div>
               <div class="card-action">
-                <a href="#">This is a link</a>
-                <a href="#">This is a link</a>
+                <a href="https://github.com/juanmarcosperez/tic-tac-toe">
+                  Code on Github
+                </a>
+                <a href="about">Site</a>
               </div>
             </div>
           </div>
@@ -91,8 +99,10 @@ const ProjectCard = () => {
                 </p>
               </div>
               <div class="card-action">
-                <a href="#">This is a link</a>
-                <a href="#">This is a link</a>
+                <a href="https://github.com/juanmarcosperez/movsearch">
+                  Code on Github
+                </a>
+                <a href="about">Site</a>
               </div>
             </div>
           </div>
@@ -108,8 +118,10 @@ const ProjectCard = () => {
                 <p>Displays all stats for Futbol teams</p>
               </div>
               <div class="card-action">
-                <a href="#">This is a link</a>
-                <a href="#">This is a link</a>
+                <a href="https://github.com/juanmarcosperez/Futbol-League-Report">
+                  Code on Github
+                </a>
+                <a href="about">Site</a>
               </div>
             </div>
           </div>
@@ -129,8 +141,10 @@ const ProjectCard = () => {
                 </p>
               </div>
               <div class="card-action">
-                <a href="#">This is a link</a>
-                <a href="#">This is a link</a>
+                <a href="https://github.com/juanmarcosperez/mtb_app">
+                  Code on Github
+                </a>
+                <a href="about">Site</a>
               </div>
             </div>
           </div>
@@ -146,8 +160,10 @@ const ProjectCard = () => {
                 <p>Crypto currency tracker. Only for react native.</p>
               </div>
               <div class="card-action">
-                <a href="#">This is a link</a>
-                <a href="#">This is a link</a>
+                <a href="https://github.com/juanmarcosperez/crypto-tracker">
+                  Code on Github
+                </a>
+                <a href="about">Site</a>
               </div>
             </div>
           </div>
@@ -165,8 +181,10 @@ const ProjectCard = () => {
                 </p>
               </div>
               <div class="card-action">
-                <a href="#">This is a link</a>
-                <a href="#">This is a link</a>
+                <a href="https://github.com/juanmarcosperez/weather">
+                  Code on Github
+                </a>
+                <a href="about">Site</a>
               </div>
             </div>
           </div>
