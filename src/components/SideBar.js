@@ -4,37 +4,49 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const SideBar = () => {
   return (
-    <div class="vertical-menu">
+    <div className="vertical-menu">
       <ul>
         <a href="Home">
-          <FontAwesomeIcon icon="home" size="2x" style={{ color: "#0e1059" }} />
+          <FontAwesomeIcon
+            className="icon"
+            icon="home"
+            size="2x"
+            style={{ color: "#0e1059" }}
+          />
+          <b> Home</b>
         </a>
       </ul>
       <ul>
         <a href="About">
           <FontAwesomeIcon
+            className="icon"
             icon="user-circle"
             size="2x"
             style={{ color: "#0e1059" }}
           />
+          <b> About</b>
         </a>
       </ul>
       <ul>
         <a href="Portfolio">
           <FontAwesomeIcon
+            className="icon"
             icon="folder"
             size="2x"
             style={{ color: "#0e1059" }}
           />
+          <b>Portfolio</b>
         </a>
       </ul>
       <ul>
         <a href="Contact">
           <FontAwesomeIcon
+            className="icon"
             icon="id-card"
             size="2x"
             style={{ color: "#0e1059" }}
           />
+          <b>Contact</b>
         </a>
       </ul>
 
@@ -46,8 +58,14 @@ const SideBar = () => {
         icon="subject"
       >
         <ul>
-          <FontAwesomeIcon icon="file" size="2x" style={{ color: "#0e1059" }} />
+          <FontAwesomeIcon
+            className="icon"
+            icon="file"
+            size="2x"
+            style={{ color: "#0e1059" }}
+          />
         </ul>
+        <b>Resume</b>
       </a>
       <ul>
         <a

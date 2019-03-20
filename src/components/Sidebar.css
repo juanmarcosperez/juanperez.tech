@@ -25,3 +25,15 @@
   background-color: #4caf50;
   color: white;
 }
+
+.vertical-menu a b {
+  display: none;
+}
+
+.vertical-menu a:hover .icon {
+  display: none;
+}
+
+.vertical-menu a:hover b {
+  display: block;
+}
