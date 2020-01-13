@@ -3,8 +3,7 @@ import "./Style.css";
 
 const Home = () => {
   return (
-    <div>
-      <h1>Home</h1>
+    <div id= "info"> 
       <h2> Juan Marcos Perez </h2>
     </div>
   );

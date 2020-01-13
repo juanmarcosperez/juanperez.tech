@@ -1,4 +1,6 @@
-div {
+#info {
   text-align: center;
-  padding: 15px;
+  margin: auto;
+  width: 500px;
+  padding-left: 100px;
 }

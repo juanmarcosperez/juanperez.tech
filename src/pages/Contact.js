@@ -3,7 +3,7 @@ import "./Style.css";
 
 const Contact = () => {
   return (
-    <div>
+    <div id= "info">
       <h1>Contact</h1>
       <p> Juan Marcos Perez </p>
       <p> email: juanmarcperez@gmail.com </p>
